@@ -2,6 +2,10 @@
 
 The [hashlookup project](https://github.com/hashlookup) provides a complete set of open source tools and [open standards](https://datatracker.ietf.org/doc/draft-dulaunoy-hashlookup-format/) to lookup hash values against known database of files. Hashlookup helps to improve and speed-up Digital Forensic and Incident Response (DFIR) by providing a readily-accessible list of known files metadata published. 
 
+## Presentations
+
+- 2021 at "Unlock Your Brain, Harden Your System" conference in Brest - [How to improve and speed-up DFIR with hashlookup - indexing all the published software](https://github.com/hashlookup/hashlookup-format/blob/main/slides/2021-Unlock-Your-Brain/main.pdf) 
+
 ## Public online hashlookup services
 
 - [CIRCL hashlookup (hashlookup.circl.lu)](https://www.circl.lu/services/hashlookup/) - API [hashlookup.circl.lu](https://hashlookup.circl.lu/)
