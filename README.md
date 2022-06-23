@@ -1,13 +1,13 @@
 # hashlookup project
 
-The [hashlookup project](https://github.com/hashlookup) provides a complete set of open source tools and [open standards](https://datatracker.ietf.org/doc/draft-dulaunoy-hashlookup-format/) to lookup hash values against known database of files.
+The [hashlookup project](https://github.com/hashlookup) provides a complete set of open source tools and [open standards](https://datatracker.ietf.org/doc/draft-dulaunoy-hashlookup-format/) to lookup hash values against known database of files. Hashlookup helps to improve and speed-up Digital Forensic and Incident Response (DFIR) by providing a readily-accessible list of known files metadata published. 
 
 ## Public online hashlookup services
 
 - [CIRCL hashlookup (hashlookup.circl.lu)](https://www.circl.lu/services/hashlookup/) - API [hashlookup.circl.lu](https://hashlookup.circl.lu/)
 - [Metalookup public web interface - Find published software by hashes](https://www.metalookup.com/) 
 
-## Tools using hashlookup services or dataset
+### Tools using hashlookup services or dataset
 
 - [hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser) Analyse a forensic target (such as a directory) to find and report files found and not found from CIRCL hashlookup public service or offline with Bloom filters. This tool can help a digital forensic investigator to know the context, origin of specific files during a digital forensic investigation.
 - [PyHashlookup](https://github.com/hashlookup/PyHashlookup) is a client API in Python to query CIRCL hashlookup.
@@ -23,9 +23,9 @@ The [hashlookup project](https://github.com/hashlookup) provides a complete set 
 
 ## Public dataset
 
-- [CIRCL hashlookup Bloom Filter dataset](https://cra.circl.lu/hashlookup/hashlookup-full.bloom) (:warning: 800+ MB) with all the known SHA-1 values from hashlookup.circl.lu.
+- [CIRCL hashlookup Bloom Filter dataset](https://cra.circl.lu/hashlookup/hashlookup-full.bloom) ( :warning: 800+ MB) with all the known SHA-1 values from hashlookup.circl.lu.
 
-## Who
+## Who is behind the hashlookup project
 
 The project is run by [@adulau](https://github.com/adulau/), [@gallypette](https://github.com/gallypette) with the help of many contributors.
 
