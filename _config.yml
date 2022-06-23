@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: hashlookup project
 description: Open source tools and standards to lookup known files
+github:
+    is_project_page: false
