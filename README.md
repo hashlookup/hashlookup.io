@@ -27,5 +27,5 @@ The [hashlookup project](https://github.com/hashlookup) provides a complete set 
 
 ## Who
 
-The project is run by @adulau, @gallypette with the help of many contributors.
+The project is run by [@adulau](https://github.com/adulau/), [@gallypette](https://github.com/gallypette) with the help of many contributors.
 
