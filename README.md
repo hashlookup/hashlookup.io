@@ -1,6 +1,6 @@
 # hashlookup project
 
-The hashlookup project provides a complete set of open source tools and [open standards](https://datatracker.ietf.org/doc/draft-dulaunoy-hashlookup-format/) to lookup hash values against known database of files.
+The [hashlookup project](https://github.com/hashlookup) provides a complete set of open source tools and [open standards](https://datatracker.ietf.org/doc/draft-dulaunoy-hashlookup-format/) to lookup hash values against known database of files.
 
 ## Public online hashlookup services
 
@@ -24,3 +24,8 @@ The hashlookup project provides a complete set of open source tools and [open st
 ## Public dataset
 
 - [CIRCL hashlookup Bloom Filter dataset](https://cra.circl.lu/hashlookup/hashlookup-full.bloom) (:warning: 800+ MB) with all the known SHA-1 values from hashlookup.circl.lu.
+
+## Who
+
+The project is run by @adulau, @gallypette with the help of many contributors.
+
