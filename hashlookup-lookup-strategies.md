@@ -41,15 +41,15 @@ sequenceDiagram
 ```mermaid
 sequenceDiagram
     Alice->>Filter: Do you have $HASH?
-    alt seems existing 
-        Filter->>Alice: $HASH is probably existing
+    alt seems to exist 
+        Filter->>Alice: $HASH probably exists
         Alice->>Hashlookup: Do you have $HASH?
-        alt is existing 
+        alt exists 
             Hashlookup->>Alice: details($HASH)
         else is not existing (False Positive)
-            Hashlookup->>Alice: $HASH not existing
+            Hashlookup->>Alice: $HASH doesn't exist
         end
     else is not existing 
-        Filter->>Alice: $HASH not existing
+        Filter->>Alice: $HASH doesn't exist
     end
 ```
