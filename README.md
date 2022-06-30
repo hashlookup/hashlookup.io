@@ -5,6 +5,7 @@ The [hashlookup project](https://github.com/hashlookup) provides a complete set 
 ## Presentations
 
 - 2021 at "Unlock Your Brain, Harden Your System" conference in Brest - [How to improve and speed-up DFIR with hashlookup - indexing all the published software](https://github.com/hashlookup/hashlookup-format/blob/main/slides/2021-Unlock-Your-Brain/main.pdf) 
+- 2022 at FIRSTCON22 conference in Dublin - [How to Secure Your Software Supply Chain and Speed-Up DFIR with Hashlookup](https://raw.githubusercontent.com/hashlookup/hashlookup.io/main/slides/20220630-FIRSTCON22-hashlookup.pdf)
 
 ## Public online hashlookup services
 
