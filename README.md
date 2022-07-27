@@ -14,10 +14,16 @@ The [hashlookup project](https://github.com/hashlookup) provides a complete set 
 
 ### Tools using hashlookup services or dataset
 
+### Maintained by hashlookup.io project
+
 - [hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser) Analyse a forensic target (such as a directory) to find and report files found and not found from CIRCL hashlookup public service or offline with Bloom filters. This tool can help a digital forensic investigator to know the context, origin of specific files during a digital forensic investigation.
 - [PyHashlookup](https://github.com/hashlookup/PyHashlookup) is a client API in Python to query CIRCL hashlookup.
-- [The Hive Project - Cortex Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers/pull/1015) pull-request to be integrated in The Hive Cortex Analyzers.
 - [MISP module hashlookup expansion](https://misp.github.io/misp-modules/expansion/#hashlookup) is a [MISP module](https://www.misp-project.org/) allowing to lookup and expand from hashlookup.
+- [a-ray-grass](https://github.com/hashlookup/a-ray-grass) is a yara module that provides support for DCSO format bloom filters in yara. In the context of hashlookup, it allows quickly discard known files "pour séparer le grain de l'ivraie" from hashlookup Bloom filters.
+
+### Maintained by others
+
+- [The Hive Project - Cortex Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers/pull/1015) pull-request to be integrated in The Hive Cortex Analyzers.
 - [munin - Online Hash Checker for Virustotal and Other Services](https://github.com/Neo23x0/munin) includes the support for hashlookup.
 - [R package to query hashlookup](https://github.com/hrbrmstr/hashlookup).
 - [PyOTI - Python Open Threat Intelligence](https://github.com/RH-ISAC/PyOTI).
