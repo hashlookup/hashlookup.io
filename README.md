@@ -39,5 +39,5 @@ The [hashlookup project](https://github.com/hashlookup) provides a complete set 
 
 ## Who is behind the hashlookup project
 
-The project is run by [@adulau](https://github.com/adulau/), [@gallypette](https://github.com/gallypette) with the help of many contributors.
+The project is run by [@adulau](https://github.com/adulau/), [@gallypette](https://github.com/gallypette) with the help of many contributors. Don't hesitate to follow our Twitter account [@hashlookup_io](https://twitter.com/hashlookup_io).
 
