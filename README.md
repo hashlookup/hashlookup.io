@@ -32,6 +32,7 @@ The [hashlookup project](https://github.com/hashlookup) provides a complete set 
 - [FACT - core](https://github.com/fkie-cad/FACT_core/tree/master/src/plugins/analysis/hashlookup) - The Firmware Analysis and Comparison Tool (FACT).
 - [Hash Hunter](https://github.com/mattnotmax/hash_hunter).
 - [UAC_processor](https://github.com/timtaylor3/UAC_processor).
+- [LowRegret-Scoring](https://github.com/malwr0a/LowRegret-Scoring-) which uses [Low-Regret Methodology for Evaluating Cyber Threat Intelligence to Enable Network Defense](https://github.com/JHUAPL/Low-Regret-Methodology) where hashlookup can be used a source for setting `High-Regret`.
 
 ## Public dataset
 
