@@ -36,6 +36,7 @@ The [hashlookup project](https://github.com/hashlookup) provides a complete set 
 - [LookyLoo](https://www.lookyloo.eu/docs/main/lookyloo-integration.html#_hashlookup_v1_10) to lookup known elements while doing Web forensic.
 - [Pandora analysis](https://github.com/pandora-analysis/pandora/) includes a hashlookup module.
 - [PaloAlto Cortex XSOAR hashlookup](https://xsoar.pan.dev/docs/reference/integrations/circle-hashlookup).
+- [intel_collector](https://github.com/jasonsford/intel_collector)
 
 ## Public dataset
 
