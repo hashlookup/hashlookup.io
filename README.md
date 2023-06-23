@@ -33,6 +33,9 @@ The [hashlookup project](https://github.com/hashlookup) provides a complete set 
 - [Hash Hunter](https://github.com/mattnotmax/hash_hunter).
 - [UAC_processor](https://github.com/timtaylor3/UAC_processor).
 - [LowRegret-Scoring](https://github.com/malwr0a/LowRegret-Scoring-) which uses [Low-Regret Methodology for Evaluating Cyber Threat Intelligence to Enable Network Defense](https://github.com/JHUAPL/Low-Regret-Methodology) where hashlookup can be used a source for setting `High-Regret`.
+- [LookyLoo](https://www.lookyloo.eu/docs/main/lookyloo-integration.html#_hashlookup_v1_10) to lookup known elements while doing Web forensic.
+- [Pandora analysis](https://github.com/pandora-analysis/pandora/) includes a hashlookup module.
+- [PaloAlto Cortex XSOAR hashlookup](https://xsoar.pan.dev/docs/reference/integrations/circle-hashlookup).
 
 ## Public dataset
 
