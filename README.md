@@ -37,6 +37,7 @@ The [hashlookup project](https://github.com/hashlookup) provides a complete set 
 - [Pandora analysis](https://github.com/pandora-analysis/pandora/) includes a hashlookup module.
 - [PaloAlto Cortex XSOAR hashlookup](https://xsoar.pan.dev/docs/reference/integrations/circle-hashlookup).
 - [intel_collector](https://github.com/jasonsford/intel_collector)
+- [AssemblyLine integration](https://github.com/kam193/assemblyline-services/tree/main?tab=readme-ov-file#hashlookup)
 
 ## Public dataset
 
